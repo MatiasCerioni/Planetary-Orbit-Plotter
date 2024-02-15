@@ -3,7 +3,7 @@ Plots a planetary orbit on top of a circle to represent the reference plane and 
 
 Useful for online teaching.
 
-![WhatsApp Image 2024-02-15 at 11 38 33](https://github.com/MatiasCerioni/Planetary-Orbit-Plotter/assets/129879523/6e7b9ca8-3c5e-40d2-a4a1-f7864e83b04d)
+![orbit_plotter](https://github.com/MatiasCerioni/Planetary-Orbit-Plotter/assets/129879523/6989c622-b655-431a-a9be-b9b10782b25a)
 
 The first two sliders are for perspective. The last four modify the planetary orbit.
 
