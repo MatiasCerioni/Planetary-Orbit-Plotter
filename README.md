@@ -9,3 +9,4 @@ The first two sliders are for perspective. The last four modify the planetary or
 
 To do:
 - Put the sliders to the side of the figure (surprisingly difficult, for some reason)
+- Save figure
